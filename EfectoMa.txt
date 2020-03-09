@@ -1,0 +1,8 @@
+Según el efecto mariposa, dadas unas circunstancias peculiares del tiempo y condiciones iniciales de un 
+determinado sistema dinámico caótico (más concretamente con dependencia sensitiva a las condiciones iniciales) 
+cualquier pequeña discrepancia entre dos situaciones con una variación pequeña en los datos iniciales, 
+cabe resaltar que sin duda alguna y sin explicación científica, acabará dando lugar a situaciones donde ambos 
+sistemas evolucionan en ciertos aspectos de forma completamente diferente. Eso implica que si en un sistema se produce una 
+pequeña perturbación inicial, mediante un proceso de amplificación, podrá generar un efecto considerablemente grande a corto o 
+medio plazo.
+Es un concepto de la teoría del caos.
